@@ -1,0 +1,19 @@
+{
+  "name": "Google_API_SDK",
+  "version": "0.1.0",
+  "description": "Google API SDK written for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git://bitbucket.org/prolificinteractive/google-api-sdk-node.js.git"
+  },
+  "author": "Matt Margolin",
+  "license": "BSD",
+  "dependencies":{
+    "request":"",
+    "uritemplate":""
+  }
+}
